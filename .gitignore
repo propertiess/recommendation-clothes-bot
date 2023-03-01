@@ -1,0 +1,5 @@
+token.json
+data
+temp_recommendation
+**/*.jpg
+__pycache__
